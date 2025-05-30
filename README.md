@@ -153,7 +153,9 @@ uv add -r requirements.txt
 </div>
 
 ## Resources
-
-- [Python venv documentation](https://docs.python.org/3/library/venv.html)
-- [uv documentation](https://github.com/astral-sh/uv)
-- [Jupyter documentation](https://jupyter.org/)
+<ul>
+<li>https://www.youtube.com/watch?v=28eLP22SMTA&t=99s</li>
+<li><a href="https://docs.python.org/3/library/venv.html">Python venv documentation</a></li>
+<li><a href="https://github.com/astral-sh/uv">uv documentation</a></li>
+<li><a href="https://docs.jupyter.org/en/latest/">Jupyter documentation</a></li>
+</ul>
