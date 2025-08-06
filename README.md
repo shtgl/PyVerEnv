@@ -154,7 +154,7 @@ uv add -r requirements.txt
 
 ## Resources
 <ul>
-<li>https://www.youtube.com/watch?v=28eLP22SMTA&t=99s</li>
+<li><a href="https://www.youtube.com/watch?v=28eLP22SMTA&t=99s">Multiple python installations and virtual env guided video</a></li>
 <li><a href="https://docs.python.org/3/library/venv.html">Python venv documentation</a></li>
 <li><a href="https://github.com/astral-sh/uv">uv documentation</a></li>
 <li><a href="https://docs.jupyter.org/en/latest/">Jupyter documentation</a></li>
