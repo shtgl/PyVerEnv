@@ -44,7 +44,12 @@ C:\Users\<username>\pyver\py3121\python -m venv <env_name>
 </div>
 
 <div>
-3. Install Project Dependencies
+3. Install packages using pip
+
+```bash
+pip install <package_name>
+```
+(Optional) Install Project Dependencies from requirements.txt file
 
 ```bash
 pip install -r requirements.txt
